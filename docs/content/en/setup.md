@@ -64,7 +64,7 @@ It can happen you may want to add more data-item to snipcart initialization. By 
 
 ```js[nuxt.config.js]
 module.exports = {
-  snipart: {
+  snipcart: {
     ...,
     
     attributes: [
